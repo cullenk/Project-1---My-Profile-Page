@@ -18,7 +18,7 @@ a {
   color: #ffffff;
 }
 a:hover {
-  color: #red;
+  color: #ffe205;
 }
 
 /* Section Styles */
@@ -52,7 +52,7 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: white
+  color: #FFD700;
 }
 
 header {
