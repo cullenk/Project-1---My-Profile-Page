@@ -88,7 +88,6 @@ header .profile-image:hover {
 .contact-img {
   width: 400px;
 
-
 }
 
 .tag {
@@ -113,6 +112,7 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
+
 .card:hover {
   border-color: #FFD700;
 }
@@ -194,7 +194,6 @@ a.social:hover {
 
   header {
     min-height: 470px;
-    color: #0399ff;
   }
 
   .nav {
