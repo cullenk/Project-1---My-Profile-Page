@@ -84,6 +84,10 @@ header .profile-image:hover {
   margin-bottom: 40px;
   margin-top: 80px;
 }
+
+.contact-img {
+  width: 400px;
+
 .tag {
   background-color: #efefef;
   color: black;
