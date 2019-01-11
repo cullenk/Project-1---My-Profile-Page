@@ -10,7 +10,7 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #222;
   background: #95daea;
-  border-bottom: 50px solid #ffe205
+  border-bottom: 50px solid #0399ff
 }
 /* Link Styles */
 
@@ -19,7 +19,7 @@ a {
   color: #ffffff;
 }
 a:hover {
-  color: #ffe205;
+  color: #0399ff;
 }
 
 /* Section Styles */
@@ -62,7 +62,7 @@ header {
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
-  border-bottom: 50px solid #ffe205;
+  border-bottom: 50px solid #0399ff;
 }
 
 header {
@@ -76,8 +76,8 @@ header .profile-image {
   height: 200px;
   border-radius: 50%;
   transition: all .5s;
-  border-top: solid 10px#ffe205;
-  border-bottom: solid 10px #ffe205;
+  border-top: solid 10px#0399ff;
+  border-bottom: solid 10px #0399ff;
 }
 header .profile-image:hover {
   transform: scale(1.2) rotate(180deg);
