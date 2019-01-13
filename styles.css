@@ -22,10 +22,6 @@ a:hover {
   color: #0399ff;
 }
 
-h2 {
-  color: #0399ff;
-  font-size: 28px;
-}
 
 /* Section Styles */
 
@@ -183,6 +179,11 @@ a.social:hover {
 }
 .clearfix {
   clear: both;
+}
+
+h2 {
+  color: #0399ff;
+  font-size: 28px;
 }
 
 /* Styles for larger screens */
